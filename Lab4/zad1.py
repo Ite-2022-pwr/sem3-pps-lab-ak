@@ -1,4 +1,7 @@
 #!/usr/bin/env python3
+
+# Dla sygnału złożonego z 3 sinusów o różnych częstotliwościach wyświetlić widmo i spektrogram
+
 import numpy as np
 import matplotlib.pyplot as plt
 

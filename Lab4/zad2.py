@@ -1,4 +1,7 @@
 #!/usr/bin/env python3
+
+# Porównać prędkość wykonywania algorytmu DFT i FFT
+
 import numpy as np
 import matplotlib.pyplot as plt
 import time
